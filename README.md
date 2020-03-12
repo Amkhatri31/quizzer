@@ -1,6 +1,9 @@
-# quizzer
+# quizzer❓
 
-A new Flutter project.
+A fun quiz flutter application.
+
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
 
 ## Getting Started
 
